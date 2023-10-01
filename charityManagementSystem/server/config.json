@@ -1,0 +1,7 @@
+{
+    "db" : {
+        "username" : "appuser",
+        "password" : "appuser",
+        "dbName" : "ManagementSystem"
+    }
+}
